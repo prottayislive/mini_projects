@@ -5,3 +5,4 @@
 
 * Madlibs
 * Number Guessing Game
+* Rock Paper Scissors
