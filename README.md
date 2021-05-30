@@ -4,3 +4,4 @@
 #### List of mini projects:
 
 * Madlibs
+* Number Guessing Game
