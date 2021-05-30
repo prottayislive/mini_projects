@@ -1,4 +1,5 @@
 # a madlibs project using string concatenation
+# taking all possible words for the madlibs
 adj1 = input("Adjective: ")
 adj2 = input("Adjective: ")
 adj3 = input("Adjective: ")
