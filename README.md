@@ -1,5 +1,5 @@
 # mini_projects
-### A collection of mini projects for beginners
+### A collection of mini projects for beginners written in python 3
 
 #### List of mini projects:
 
