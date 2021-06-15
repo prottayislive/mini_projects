@@ -8,4 +8,4 @@ All games can be played in the terminal window.
 * Number Guessing Game
 * Rock Paper Scissors
 * Hangman (Easy and Infinite) -- Requires words.py
-* Hangman (With lives) == Requires words.py
+* Hangman (With lives) -- Requires words.py
