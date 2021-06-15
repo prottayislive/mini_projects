@@ -1,4 +1,5 @@
 # mini_projects
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 ### A collection of mini projects for beginners written in python 3
 All games can be played in the terminal window.
 
