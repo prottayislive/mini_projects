@@ -7,3 +7,4 @@
 * Number Guessing Game
 * Rock Paper Scissors
 * Hangman (Easy and Infinite)
+* Hangman (With lives)
