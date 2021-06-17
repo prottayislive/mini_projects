@@ -1,3 +1,4 @@
+# All words used for the hangman game
 word_list = ["rumor", "happen", "match", "sail", "sick", "floor", "summit", "shadow", "census",
              "chorus", "launch", "abbey", "eject", "resist", "guilt", "repeat", "drama", "easy",
              "morsel", "swipe", "equip", "reader", "pray", "grave", "cord", "cheek", "figure", "rebel", "native",
