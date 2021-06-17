@@ -10,12 +10,14 @@ def get_word(word):
 
 
 def hangman():
+    """game mechanics and life reduction"""
     lives = 6
     word = get_word(word_list)
     word_letters = set(word)
     alphabet = set(string.ascii_uppercase)
     used_letters = set()
     while len(word_letters) > 0 and lives > 0:
+        # loop to continue game until solving word
         print(f'You have {lives} left')
         print('Used:', ''.join(used_letters))
         list_letters = [
@@ -23,6 +25,8 @@ def hangman():
         print('Current word: ', ''.join(list_letters))
         # getting input
         user_input = input('Guess a letter: ').upper()
+        # conditionals to match words with given word
+        # reduce lives for every wrong letter
         if user_input in alphabet - used_letters:
             used_letters.add(user_input)
             if user_input in word_letters:
