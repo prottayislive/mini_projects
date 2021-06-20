@@ -3,6 +3,7 @@ import math
 
 
 class Player:
+    """adding a player's mechanics"""
     def __init__(self, letter):
         self.letter = letter
 
@@ -11,6 +12,7 @@ class Player:
 
 
 class RandomComputerPlayer(Player):
+    """ making a computer player"""
     def __init__(self, letter):
         super().__init__(letter)
 
@@ -20,6 +22,7 @@ class RandomComputerPlayer(Player):
 
 
 class HumanPlayer(Player):
+    """ Making the mechanics of a human player"""
     def __init__(self, letter):
         super().__init__(letter)
 
