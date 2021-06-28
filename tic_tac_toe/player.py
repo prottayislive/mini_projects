@@ -3,7 +3,7 @@ import math
 
 
 class Player:
-    """adding a player's mechanics"""
+    """ adding a player's mechanics """
     def __init__(self, letter):
         self.letter = letter
 
