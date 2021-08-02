@@ -1,4 +1,4 @@
-# mini_projects
+# Mini Games
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pip)
 ### A collection of mini projects for beginners written in python 3
 All games can be played in the terminal window.
