@@ -5,7 +5,7 @@ All games can be played in the terminal window.
 
 Contributions are welcome🚀
 
-#### List of mini projects:
+#### List of all mini projects:
 
 * Madlibs
 * Number Guessing Game
