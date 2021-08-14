@@ -28,5 +28,5 @@ def passage():
              f" been an exciting day in the jungle."
     print(madlib)
 
-
+# calling function
 passage()
